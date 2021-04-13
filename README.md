@@ -1,2 +1,2 @@
-# codemasterlithuania.github.io/a1/main.html
+# codemasterlithuania.github.io/a1/index.html
 33 + 5 = 8
